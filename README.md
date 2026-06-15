@@ -1,4 +1,4 @@
-## 🔬 Dependencies
+## Dependencies
 - Python==3.9
 - numpy==1.24.2
 - scikit_learn==1.2.2
@@ -6,12 +6,12 @@
 - tqdm==4.64.1
 - Maybe other library version also works.
 
-## 💻 Data preparation
+## Data preparation
 The multi-model embedding of MMKGs are too large so you should download them from the [Google Drive Link](https://drive.google.com/file/d/1dKJdJunb11kDtFr5NLfPlFknS7cRdm9W/view?usp=sharing). Please unzip the embedding files and put them in the corresponding path in `datasets/`
 
 
 
-## 📕 Train and Evaluation
+## Train and Evaluation
 
 Here is an example for DB15K dataset:
 
